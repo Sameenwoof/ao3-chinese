@@ -1,31 +1,35 @@
-版本号：1.0.3
+版本号：1.0.4
 维护者：riddikulusknowsnothing
-更新时间：2026-08-24
+更新时间：2026-08-25
 
-// 编写时，请至少包含“词条”、“通用词条”、“禁翻词条”、“正则表达式”这 4 个部分中的 1 个
-// 正则表达式区域外，使用引号包裹带有标点符号的原文词条
+// 欢迎提出反馈和修改意见：Sameen4399
 
 词条
 // 此区域区分大小写，用于翻译人名等专有名词
 Song So Mi = 宋昭美
 So Mi = 昭美
 Misty = 米斯蒂
-Viktor Vector = 维克多
+Viktor Vector = 维克多·维克特
 Johnny Silverhand = 强尼·银手
+Johnny = 强尼
 Jackie Welles = 杰克·威尔斯
 T-Bug = T-Bug
 Rogue Amendiares = 罗格
+Rogue = 罗格
 Alt Cunningham = 奥特·坎宁安
+Alt = 奥特
 Kerry Eurodyne = 克里·欧罗戴恩
 Evelyn Parker = 伊芙琳·帕克
 Judy Alvarez = 朱迪·阿尔瓦雷斯
-Jude = 小朱迪
+Jude = 朱迪
 Panam Palmer = 帕南·帕尔默
 River Ward = 瑞弗·沃德
 Goro Takemura = 竹村五郎
 Hanako Arasaka = 荒坂华子
+Hanako = 华子
 Saburo Arasaka = 荒坂三郎
 Yorinobu Arasaka = 荒坂赖宣
+Yorinobu = 赖宣
 Michiko Arasaka = 荒坂美智子
 Adam Smasher = 亚当·重锤
 Maiko = 舞子
@@ -57,19 +61,21 @@ Thompson = 汤普森
 Rosalind Myers = 罗莎琳德·迈尔斯
 Solomon Reed = 所罗门·李德
 Reed = 里德
-Alena “Alex” Xenakis = 艾利克斯·泽纳基斯
-Alex = 艾利克斯
+Alena Xenakis = 阿莱娜·泽纳基斯
+Alex = 艾历克斯
 Kurt Hansen = 库尔特·汉森
 Aurore Cassel = 奥罗尔·卡塞尔
 Aymeric Cassel = 埃默里克·卡塞尔
 Slider = 滑条
-Jackie Welles = 杰克·威尔斯
 Robert John Linder = 罗伯特·约翰·林德
 Arasaka = 荒坂
 Rache Bartmoss = 拉奇·巴特莫斯
 Morgan Blackhand = 摩根·黑手
 Lucius Rhyne = 卢修斯·莱恩
 Adam Smasher = 亚当·重锤
+AHQ = 荒坂总部
+Relic = Relic
+Nibbles = 小不点
 
 
 通用词条
@@ -78,7 +84,7 @@ NC：夜之城
 Night City：夜之城
 Pacifica：太平洲
 Dogtown：狗镇
-Watson：沃森区
+Watson：沃森
 Westbrook：威斯特布鲁克
 Heywood：海伍德
 Santo Domingo：圣多明戈
@@ -124,19 +130,19 @@ Zetatech：泽塔科技
 Kiroshi：歧路司
 Orbital Air：轨道航空
 Night Corp：夜氏集团
+NightCorp：夜氏集团
 NCART：夜之城捷运
 Delamain：德拉曼
 Afterlife：来生
 Blackwall：黑墙
 Cyberspace：网络空间
 Old Net：旧网
-Relic：Relic
 Soulkiller：灵魂杀手
 Engram：灵魂数据
 Shard：数据芯片
-Netrunner：网络黑客
-Runner：网络黑客
-'Runner:黑客
+Netrunner：网行者
+Runner：网行者
+'Runner:网行者
 Fixer：中间人
 Merc：雇佣兵
 Ripperdoc：义体医生
@@ -153,7 +159,7 @@ deck：接入仓
 Kiroshi Optics：歧路司光学
 Mantis Blades：螳螂刀
 Gorilla Arms：大猩猩手臂
-Projectile Launch System：发射器系统
+Projectile Launch System：射弹发射系统
 Monowire：单分子线
 Syn-lungs：合成肺
 Reinforced Tendons：强化肌腱
@@ -161,9 +167,9 @@ Fortified Ankles：强化踝关节
 Subdermal Armor：皮下护甲
 Optical Camo：光学迷彩
 Second Heart：副心脏
-Biomonitor：生物监测器
+Biomonitor：生物监测
 Blood Pump：血泵
-Adrenaline Converter：肾上腺素转换器
+Adrenaline Converter：肾上腺素强化器
 Kerenzikov：克伦奇科夫
 Reflex Tuner：反射调节器
 Shock-N-Awe：震爆器
@@ -171,7 +177,7 @@ Pain Editor：疼痛编辑器
 Eddies：欧元
 Eurodollar：欧元
 Eurobucks：欧元
-Choomba：朋友
+Choomba：伙计
 Choom：朋友
 chica：妹子
 Gonk：蠢货
@@ -192,21 +198,23 @@ Cyberpsychosis：赛博精神病
 ripper：义体医生
 Songbird：百灵鸟
 scop-dog：合成热狗
+scop dog：合成热狗
 Vista Del Rey：国王大道
 Samurai：武侍
-netrunner suit：网络黑客紧身衣
-runner suit：黑客紧身衣
+netrunner suit：网行者紧身衣
+runner suit：网行者紧身衣
 EMP threading：面部义体纹路
 Saka：荒坂
 gig：委托
 the Claws：虎爪帮
-Vik：维哥
+Vik：维克
 Dive：潜入
 Deep dive：深潜
 Jack in：接入
 Data Fortress：数据堡垒
 Construct：构造体
 agent：特工
+special agent：特工
 bike：摩托车
 iron：枪
 eds：欧元
@@ -215,6 +223,7 @@ scav：清道夫
 translators：翻译器
 Padre：神父
 Malorian 3516：马洛里安3516
+Malorian：马洛里安
 Skippy：四季宝
 Widow Maker：寡妇制造者
 Overwatch：守望
@@ -225,6 +234,13 @@ Pariah：弃子
 street cred：街头声望
 Katana：武士刀
 Yinglong：应龙
+Konpeki Plaza：绀碧大厦
+flatline：死亡
+Neural bridge：神经桥接
+Cynosure：小北斗
+birdie：小鸟儿
+Tycho：第谷
+Rogue AI：流窜AI
 
 
 禁翻词条
