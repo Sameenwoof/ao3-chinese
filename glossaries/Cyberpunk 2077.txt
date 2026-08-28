@@ -1,15 +1,14 @@
-版本号：1.0.5
+版本号：1.0.6
 维护者：riddikulusknowsnothing
-更新时间：2026-08-26
+更新时间：2026-08-28
 
 // 欢迎提出反馈和修改意见：Sameen4399
 
 词条
 // 此区域区分大小写，用于翻译人名等专有名词
 Song So Mi = 宋昭美
-So Mi = 昭美
 Misty = 米斯蒂
-Viktor Vector = 维克多·维克特
+Viktor Vector = 维克多·维克托
 Johnny Silverhand = 强尼·银手
 Johnny = 强尼
 Jackie Welles = 杰克·威尔斯
@@ -18,13 +17,15 @@ Rogue Amendiares = 罗格
 Rogue = 罗格
 Alt Cunningham = 奥特·坎宁安
 Alt = 奥特
-Kerry Eurodyne = 克里·欧罗戴恩
+Kerry Eurodyne = 克里·欧罗迪恩
 Evelyn Parker = 伊芙琳·帕克
-Judy Alvarez = 朱迪·阿尔瓦雷斯
+Judy Alvarez = 朱迪·阿尔瓦雷兹
 Jude = 朱迪
 Panam Palmer = 帕南·帕尔默
+Saul = 索尔
 River Ward = 瑞弗·沃德
 Goro Takemura = 竹村五郎
+Goro = 吾郎
 Hanako Arasaka = 荒坂华子
 Hanako = 华子
 Saburo Arasaka = 荒坂三郎
@@ -61,7 +62,7 @@ Henry = 亨利
 Thompson = 汤普森
 Rosalind Myers = 罗莎琳德·迈尔斯
 Solomon Reed = 所罗门·李德
-Reed = 里德
+Sol = 老索
 Alena Xenakis = 阿莱娜·泽纳基斯
 Alex = 艾历克斯
 Kurt Hansen = 库尔特·汉森
@@ -78,12 +79,15 @@ AHQ = 荒坂总部
 Relic = Relic
 Nibbles = 小不点
 Mitch = 米契
+Luna：月球
+Tower：高塔
 
 
 通用词条
 // 此区域不区分大小写，用于翻译通用概念
 NC：夜之城
 Night City：夜之城
+So Mi = 昭美
 Pacifica：太平洲
 Dogtown：狗镇
 Watson：沃森
@@ -158,7 +162,8 @@ BD：超梦
 Sandevistan：斯安威斯坦
 Cyberware：义体
 Mikoshi：神舆
-Kiroshi Optics：歧路司光学
+Kiroshi Optics：岐路司义眼
+Optics：义眼
 Mantis Blades：螳螂刀
 Gorilla Arms：大猩猩手臂
 Projectile Launch System：射弹发射系统
@@ -191,8 +196,13 @@ Mama Welles：威尔斯妈妈
 El Coyote：野狼酒吧
 Nomad：流浪者
 Streetkid：街头小子
-Corpo：公司
+Corpo：公司员工
+Corpo Plaza：公司广场
 corps：公司
+corp：公司
+corpo-rats：公司狗
+corpo-rat：公司狗
+corporat：公司狗
 my output：我的女友
 your output：你女友
 ex-output：前女友
@@ -202,13 +212,15 @@ ripper：义体医生
 Songbird：百灵鸟
 scop-dog：合成热狗
 scop dog：合成热狗
-Vista Del Rey：国王大道
+Vista Del Rey：丽景区
 Samurai：武侍
 netrunner suit：网行者紧身衣
 runner suit：网行者紧身衣
 EMP threading：面部义体纹路
+netrunning：网络入侵
 Saka：荒坂
 gig：委托
+gigs：委托
 the Claws：虎爪帮
 Vik：维克
 Dive：潜入
@@ -237,7 +249,7 @@ Pariah：弃子
 street cred：街头声望
 Katana：武士刀
 Yinglong：应龙
-Konpeki Plaza：绀碧大厦
+Konpeki：绀碧
 flatline：死亡
 Neural bridge：神经桥接
 Cynosure：小北斗
@@ -245,6 +257,20 @@ birdie：小鸟儿
 Tycho：第谷
 Rogue AI：流窜AI
 Heavy Hearts：心事重重
+Centzon：四百
+ICEbreaker：破冰程序
+ICE breaker：破冰程序
+Esoterica：通灵屋
+Basilisk：魔蜥
+Raffen：乱刀会
+Arroyo：河谷区
+Byakko：白虎
+the killing moon：比远方更远
+firestarter：审判日
+Phantom Liberty：往日之影
+corpo rat：公司狗
+the Moth：天蛾酒吧
+Mercwork：雇佣兵委托
 
 
 禁翻词条
