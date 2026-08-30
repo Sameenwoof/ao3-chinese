@@ -1,6 +1,6 @@
-版本号：1.0.6
+版本号：1.0.7
 维护者：riddikulusknowsnothing
-更新时间：2026-08-28
+更新时间：2026-08-30
 
 // 欢迎提出反馈和修改意见：Sameen4399
 
@@ -79,8 +79,10 @@ AHQ = 荒坂总部
 Relic = Relic
 Nibbles = 小不点
 Mitch = 米契
-Luna：月球
-Tower：高塔
+Luna = 月球
+the Tower = 高塔
+Blue Fang = 青牙
+Pride = 傲慢
 
 
 通用词条
@@ -161,6 +163,9 @@ Braindance：超梦
 BD：超梦
 Sandevistan：斯安威斯坦
 Cyberware：义体
+Cyberwares：义体
+cybernetic：义体
+cybernetics：义体
 Mikoshi：神舆
 Kiroshi Optics：岐路司义眼
 Optics：义眼
@@ -194,6 +199,7 @@ Delta：撤
 Handler：联络人
 Mama Welles：威尔斯妈妈
 El Coyote：野狼酒吧
+Coyote：野狼
 Nomad：流浪者
 Streetkid：街头小子
 Corpo：公司员工
@@ -203,6 +209,7 @@ corp：公司
 corpo-rats：公司狗
 corpo-rat：公司狗
 corporat：公司狗
+corpo rat：公司狗
 my output：我的女友
 your output：你女友
 ex-output：前女友
@@ -268,9 +275,9 @@ Byakko：白虎
 the killing moon：比远方更远
 firestarter：审判日
 Phantom Liberty：往日之影
-corpo rat：公司狗
 the Moth：天蛾酒吧
 Mercwork：雇佣兵委托
+realwater：真水
 
 
 禁翻词条
