@@ -1,8 +1,8 @@
-版本号：1.0.8
+版本号：1.0.9
 维护者：riddikulusknowsnothing
-更新时间：2026-09-01
+更新时间：2026-09-03
 
-// 欢迎提出反馈和修改意见：Sameen4399
+// 反馈和修改意见：Sameen4399
 
 词条
 // 此区域区分大小写，用于翻译人名等专有名词
@@ -41,11 +41,11 @@ Dexter Deshawn = 德克斯特·德肖恩
 Regina Jones = 瑞吉娜·琼斯
 Wakako = 和歌子
 Sebastian Ibarra = 塞巴斯蒂安·伊巴拉
+Sebastián Ibarra = 塞巴斯蒂安·伊巴拉
 Muamar Reyes = 穆阿迈尔·雷耶斯
 Dakota Smith = 达科塔·史密斯
 Dino Dinovic = 迪诺·迪诺维奇
 Mr. Hands = 汉兹先生
-Hands = 汉兹
 Placide = 普拉西德
 Maman Brigitte = 玛曼·布丽吉特
 Dum Dum = 杜姆杜姆
@@ -156,7 +156,7 @@ Engram：灵魂数据
 Shard：数据芯片
 Netrunner：网行者
 Runner：网行者
-'Runner:网行者
+'Runner：网行者
 Fixer：中间人
 Merc：雇佣兵
 Ripperdoc：义体医生
@@ -206,6 +206,7 @@ Handler：联络人
 Mama Welles：威尔斯妈妈
 El Coyote：野狼酒吧
 Coyote：野狼
+El Coyote Cojo：野狼酒吧
 Nomad：流浪者
 Streetkid：街头小子
 Corpo：公司员工
@@ -287,6 +288,7 @@ the Moth：天蛾酒吧
 Mercwork：雇佣兵委托
 realwater：真水
 Arasaka Tower：荒坂塔
+Mr. Studd：大钢炮
 
 
 禁翻词条
@@ -298,6 +300,7 @@ NUS
 V
 ICE
 ID
+Val
 
 正则表达式
 // 匹配德语中 "Wachmann" 的单数和复数形式
