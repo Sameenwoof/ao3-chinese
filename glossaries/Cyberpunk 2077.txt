@@ -7,6 +7,7 @@
 词条
 // 此区域区分大小写，用于翻译人名等专有名词
 Song So Mi = 宋昭美
+Song = 宋
 Misty = 米斯蒂
 Viktor Vektor = 维克多·维克托
 Johnny Silverhand = 强尼·银手
@@ -26,6 +27,7 @@ Saul = 索尔
 River Ward = 瑞弗·沃德
 Goro Takemura = 竹村五郎
 Goro = 吾郎
+Takemura = 竹村
 Hanako Arasaka = 荒坂华子
 Hanako = 华子
 Saburo Arasaka = 荒坂三郎
@@ -89,6 +91,13 @@ Clouds = 云顶
 Chester Bennet = 切斯特·班内特
 PL = 往日之影
 Jago = 雅戈
+Embers = 余烬
+VDB = 巫毒帮众
+Abernathy = 艾伯纳西
+Terra = 地球
+Richard Night = 理查德·奈特
+Spider = 蜘蛛
+Canto = 篇章
 
 
 通用词条
@@ -154,9 +163,9 @@ Old Net：旧网
 Soulkiller：灵魂杀手
 Engram：灵魂数据
 Shard：数据芯片
-Netrunner：网行者
-Runner：网行者
-'Runner：网行者
+Netrunner：网络黑客
+Runner：黑客
+'Runner：黑客
 Fixer：中间人
 Merc：雇佣兵
 Ripperdoc：义体医生
@@ -218,8 +227,9 @@ corpo-rat：公司狗
 corporat：公司狗
 corpo rat：公司狗
 my output：我的女友
-your output：你女友
+your output：你女朋友
 ex-output：前女友
+her output：她女朋友
 Cyberpsycho：赛博精神病
 Cyberpsychosis：赛博精神病
 ripper：义体医生
@@ -228,8 +238,9 @@ scop-dog：合成热狗
 scop dog：合成热狗
 Vista Del Rey：丽景区
 Samurai：武侍
-netrunner suit：网行者紧身衣
-runner suit：网行者紧身衣
+netrunner suit：网络黑客服
+runner suit：网络黑客服
+netrunning suit：网络入侵套装
 EMP threading：面部义体纹路
 netrunning：网络入侵
 Saka：荒坂
@@ -278,6 +289,7 @@ ICEbreaker：破冰程序
 ICE breaker：破冰程序
 Esoterica：通灵屋
 Basilisk：魔蜥
+Ugh：哈啊...
 Raffen：乱刀会
 Arroyo：河谷区
 Byakko：白虎
@@ -289,6 +301,21 @@ Mercwork：雇佣兵委托
 realwater：真水
 Arasaka Tower：荒坂塔
 Mr. Studd：大钢炮
+Megabuilding：超级摩天楼
+Apogee：远地点
+Falcon：游隼
+Berserk：狂暴
+Netdrive：网驱
+Iconic：不朽
+leeroy ligament system：灭团韧带
+reinforced tendons：强化肌腱
+Canto Mk.6：篇章6型
+Canto deck：篇章接入仓
+Cynosure Core：小北斗核心
+Cerberus：地狱犬
+Erebus：厄瑞波斯
+Tetratronic Rippler：四相传电涟漪
+Longshore Stacks：长滩堆料场
 
 
 禁翻词条
@@ -301,6 +328,8 @@ V
 ICE
 ID
 Val
+Relic Packet 32​
+Arch​
 
 正则表达式
 // 匹配德语中 "Wachmann" 的单数和复数形式
