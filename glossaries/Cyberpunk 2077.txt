@@ -1,6 +1,6 @@
-版本号：1.0.9
+版本号：1.0.10
 维护者：riddikulusknowsnothing
-更新时间：2026-09-03
+更新时间：2026-09-07
 
 // 反馈和修改意见：Sameen4399
 
@@ -93,7 +93,8 @@ PL = 往日之影
 Jago = 雅戈
 Embers = 余烬
 VDB = 巫毒帮众
-Abernathy = 艾伯纳西
+Susan Abernathy = 苏珊·艾伯纳西
+Arthur Jenkins = 亚瑟·詹金斯
 Terra = 地球
 Richard Night = 理查德·奈特
 Spider = 蜘蛛
@@ -166,6 +167,7 @@ Shard：数据芯片
 Netrunner：网络黑客
 Runner：黑客
 'Runner：黑客
+runner chair：黑客椅
 Fixer：中间人
 Merc：雇佣兵
 Ripperdoc：义体医生
@@ -256,7 +258,6 @@ Construct：构造体
 agent：特工
 special agent：特工
 bike：摩托车
-iron：枪
 eds：欧元
 streetkid：街头小子
 scav：清道夫
@@ -316,6 +317,8 @@ Cerberus：地狱犬
 Erebus：厄瑞波斯
 Tetratronic Rippler：四相传电涟漪
 Longshore Stacks：长滩堆料场
+cyborg：半机械人
+‘borg：机械人
 
 
 禁翻词条
